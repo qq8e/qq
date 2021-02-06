@@ -1,5 +1,7 @@
 # qq
 8亿QQ绑定数据
+![Image text](https://i.imgur.com/J8oFiP9.png)
+
 ![Image text](https://www.hzgzn.com/content/uploadfile/202101/224d1611802167.png)
 
 ![Image text](https://i.imgur.com/bvstdLp.jpg)
@@ -11,6 +13,7 @@
 下载地址  
 [360安全网盘](https://36263f.link.yunpan.360.cn/lk/surl_yS9zkMdGJCi)  
 [百度网盘](https://pan.baidu.com/s/1MuBCEJWCjs7cDwbgQdibww)  
+[天翼网盘](https://cloud.189.cn/t/ziieemMruaq2)
 
 备用地址  
 https://www.kjsv.com/  
