@@ -1,0 +1,135 @@
+@charset "gb2312";
+/* CSS Document */
+
+body {
+	font-size:14px;
+	font-family:Georgia,serif;
+	color:#000;
+	background-color:#fff;
+	text-align:center;
+	background-image: url(img/bg.jpg);
+}
+a {
+	color:#000;
+	text-decoration:none;
+}
+form {
+	margin:0;
+	padding:0;
+	color: #666;
+}
+#container {
+	width:550px;
+	margin:0 auto;
+	text-align:left;
+}
+#header {
+	height:100px;
+}
+#footer {
+	clear:both;
+	padding-top:30px;
+	text-align:center;
+	color: #666;
+}
+h1 {
+	font-size:32px;
+	font-weight:bold;
+	letter-spacing:1px;
+	padding:0;
+	margin:0;
+	line-height:100px;
+	text-align:center;
+	color: #666;
+}
+#error {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+#error li {
+	font-weight:bold;
+	color:#d00;
+	font-size:12px;
+	line-height:40px;
+}
+#create_form span {
+	font-size:12px;
+	color:#555;
+}
+#create_form label {
+	font-weight:bold;
+}
+#create_form #url {
+	background:#fff;
+	border:1px solid #ccc;
+	border-bottom-color:#999;
+	border-right-color:#999;
+	color:#000;
+	height:35px;
+	width:530px;
+	margin:0;
+	padding:9px 10px;
+	font-family:Georgia,serif;
+	line-height:15px;
+}
+#create_form #alias {
+	background:#fff;
+	border:1px solid #ccc;
+	border-bottom-color:#999;
+	border-right-color:#999;
+	color:#000;
+	width:100px;
+	font-family:Georgia,serif;
+}
+#create_form .button {
+	float:right;
+}
+form#fcopy textarea {
+	height:60px;
+	width:550px;
+	overflow:hidden;
+	border:0px;
+	font-size:26px;
+	font-weight:bold;
+	color:#069;
+	text-align:center;
+	font-family:Georgia,serif;
+	line-height:60px;
+}
+p.ok {
+	padding-bottom:20px;
+	height:60px;
+	background:url(/html/yes.png) no-repeat bottom center;
+	text-align:center;
+}
+#banner {text-align:center;padding-top:35px;clear:both;}
+#create_form .inurl {
+	background:#fff;
+	border:1px solid #ccc;
+	border-bottom-color:#999;
+	border-right-color:#999;
+	color:#000;
+	height:15px;
+	width:530px;
+	margin:0;
+	padding:9px 10px;
+	font-family:Georgia,serif;
+	line-height:15px;
+}
+p.but {text-align:right;}
+#nav {padding-top:15px;}
+#nav ul {border-top:3px solid #2f2f2f;padding:0;margin:0;}
+#nav ul li {list-style:none;display:inline;
+	cursor:pointer;background:#ddd;font-size:12px;}
+#nav ul li a {float:left;padding:10px 15px;background:#ddd;margin-right:10px;}
+#nav ul li.current a {background:#2f2f2f;color:#fff;}
+
+#msg {text-align:center;line-height:40px;font-size:20px;color:#a01;font-family:'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;}
+#msg a {display:none;}
+p.ali {height:25px;overflow:hidden;line-height:25px;}
+
+input.submit2 {font-size:14px;font-weight:bold;padding:10px 30px;background:#47a0cc;color:#fff;border: 1px solid #096691;cursor: pointer;}
+input.submit {font-size:14px;font-weight:bold;padding:10px 30px;background:#05bc05;color:#fff;border: 1px solid #006800;cursor: pointer;}
+input.submit {background: -moz-linear-gradient( top, #05bc05 0%, #12a012);	background: -webkit-gradient( linear, left top, left bottom, from(#05bc05), to(#12a012));border-radius: 4px;-moz-border-radius: 4px;-webkit-border-radius: 4px;-moz-box-shadow: 0px 1px 3px rgba(000,000,000, 0.3), inset 0px 0px 1px rgba(255,255,255,0.4);-webkit-box-shadow: 0px 1px 5px rgba(000,000,000,0.3), inset 0px 0px 1px rgba(255,255,255,0.3);text-shadow: 0px 1px 0px rgba(255,255,255,0.05);-webkit-transition: all 0.3s ease-in;-moz-transition: all 0.3s ease-in;-o-transition: all 0.3s ease-in;transition: all 0.3s ease-in;}
+input.submit2 {background: -moz-linear-gradient( top, #47a0cc 0%, #1b86b8);	background: -webkit-gradient( linear, left top, left bottom, from(#47a0cc), to(#1b86b8));border-radius: 4px;-moz-border-radius: 4px;-webkit-border-radius: 4px;-moz-box-shadow: 0px 1px 3px rgba(000,000,000, 0.3), inset 0px 0px 1px rgba(255,255,255,0.4);-webkit-box-shadow: 0px 1px 5px rgba(000,000,000,0.3), inset 0px 0px 1px rgba(255,255,255,0.3);text-shadow: 0px 1px 0px rgba(255,255,255,0.05);-webkit-transition: all 0.3s ease-in;-moz-transition: all 0.3s ease-in;-o-transition: all 0.3s ease-in;transition: all 0.3s ease-in;}

@@ -1,0 +1,13 @@
+[DEFAULT]
+BASEURL=http://www.hzgzn.com/
+[DOC#6#7#2801]
+BASEURL=http://daohang.114so.cn/zy2/?id=664&kw=www.7stk.com&s=gx&h=15&x=zx0114so&v=&seq=
+ORIGURL=http://www.7stk.com/store/htm/5w_s_b.htm
+[InternetShortcut]
+URL=http://www.hzgzn.com/
+IDList=
+IconFile=C:\Windows\system32\SHELL32.dll
+IconIndex=220
+HotKey=0
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
