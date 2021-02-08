@@ -12,7 +12,7 @@
 下载地址  
 [360安全网盘](https://36263f.link.yunpan.360.cn/lk/surl_yS9zkMdGJCi)  
 [百度网盘](https://pan.baidu.com/s/1MuBCEJWCjs7cDwbgQdibww)  
-[天翼网盘](https://cloud.189.cn/t/ziieemMruaq2)
+[天翼网盘(解压密码：209754)](https://cloud.189.cn/t/ziieemMruaq2)
 
 
 备用地址  
