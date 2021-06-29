@@ -1,5 +1,5 @@
 # qq
-qqsb、Tencentsb
+qqsb、Tencentsb  
 8亿QQ绑定数据、腾讯泄露数据  
 ![Image text](https://i.imgur.com/J8oFiP9.png)  
 
@@ -17,6 +17,7 @@ qqsb、Tencentsb
 分享的国内网盘频繁被一些SB举报删除，数据共享人人有责  
 种子 https://mega.nz/file/ct9iVLia#Zd48MrnZehsNyPd0FWX9FZ1TTc7Q9Ket-zJvboABwPw  
 磁力链接 magnet:?xt=urn:btih:963fd90eee4db809ed4224d1ca7a0639c443cf4b  
+magnet:?xt=urn:btih:c81e0644fd67f73d81b94a31e3fc726679638a98&dn=pcht-v1  
 
 使用方式：  
 建立数据库，建立表 user，  
