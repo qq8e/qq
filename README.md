@@ -13,12 +13,14 @@ qqsb、Tencentsb
 下载地址  
 [360安全网盘](https://36263f.link.yunpan.360.cn/lk/surl_yS9zkMdGJCi)  
 [百度网盘](https://pan.baidu.com/s/1MuBCEJWCjs7cDwbgQdibww)  
+[百度网盘(新)](https://pan.baidu.com/s/12FfwVdmzYNkZXTzooH_xQA)提取码：404v  
 [天翼网盘(解压密码：209754)](https://cloud.189.cn/t/ziieemMruaq2)  
 分享的国内网盘频繁被一些SB举报删除，数据共享人人有责  
 种子 https://mega.nz/file/ct9iVLia#Zd48MrnZehsNyPd0FWX9FZ1TTc7Q9Ket-zJvboABwPw  
 磁力链接 magnet:?xt=urn:btih:963fd90eee4db809ed4224d1ca7a0639c443cf4b  
 magnet:?xt=urn:btih:c81e0644fd67f73d81b94a31e3fc726679638a98&dn=pcht-v1  
 
+举报一次腾讯安全的全体员工死个妈
 使用方式：  
 建立数据库，建立表 user，  
 qq 的两字段 qq 和 phone，  
