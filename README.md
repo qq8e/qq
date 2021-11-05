@@ -20,7 +20,7 @@ qqsb、Tencentsb
 磁力链接 magnet:?xt=urn:btih:963fd90eee4db809ed4224d1ca7a0639c443cf4b  
 magnet:?xt=urn:btih:c81e0644fd67f73d81b94a31e3fc726679638a98&dn=pcht-v1  
 
-举报一次腾讯安全的全体员工死个妈
+# 举报一次腾讯安全的全体员工死个爹妈  
 使用方式：  
 建立数据库，建立表 user，  
 qq 的两字段 qq 和 phone，  
